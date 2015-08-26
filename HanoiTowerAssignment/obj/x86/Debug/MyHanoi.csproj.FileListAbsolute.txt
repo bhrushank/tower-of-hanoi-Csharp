@@ -1,0 +1,34 @@
+D:\C#\MyHanoi\MyHanoi\bin\Debug\MyHanoi.exe
+D:\C#\MyHanoi\MyHanoi\bin\Debug\MyHanoi.pdb
+D:\C#\MyHanoi\MyHanoi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.MainForm.resources
+D:\C#\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.Properties.Resources.resources
+D:\C#\MyHanoi\MyHanoi\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\MyHanoi\MyHanoi\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.exe
+D:\C#\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.pdb
+F:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.exe
+F:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.pdb
+F:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.MainForm.resources
+F:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.Properties.Resources.resources
+F:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.csproj.GenerateResource.Cache
+F:\MyHanoi\MyHanoi\bin\Debug\MyHanoi.exe
+F:\MyHanoi\MyHanoi\bin\Debug\MyHanoi.pdb
+F:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.csprojResolveAssemblyReference.cache
+H:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.exe
+H:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.pdb
+H:\MyHanoi\MyHanoi\bin\Debug\MyHanoi.exe
+H:\MyHanoi\MyHanoi\bin\Debug\MyHanoi.pdb
+H:\MyHanoi\MyHanoi\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.MainForm.resources
+H:\MyHanoi\MyHanoi\obj\x86\Debug\MyHanoi.Properties.Resources.resources
+H:\MyHanoi\MyHanoi\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\MyHanoi\MyHanoi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\obj\x86\Debug\MyHanoi.exe
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\obj\x86\Debug\MyHanoi.pdb
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\bin\Debug\MyHanoi.exe
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\bin\Debug\MyHanoi.pdb
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\obj\x86\Debug\MyHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\obj\x86\Debug\MyHanoi.MainForm.resources
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\obj\x86\Debug\MyHanoi.Properties.Resources.resources
+C:\Users\Littlekey\Desktop\MyHanoi (1)\MyHanoi\obj\x86\Debug\MyHanoi.csproj.GenerateResource.Cache
